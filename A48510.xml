@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Lilly's new prophecy touching the notable actions of this instant September and the ensuing three months of the year (viz.) October, November, and December with an astrological account of the future plenty or scarcity, dearth or cheapness of most sorts of fruits of the earth, merchandize, or commodities : as also of the remarkable alterations of weather during all the remaining part of this year, 1679.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48510</idno><idno type="EEBO-CITATION">10759089</idno>
+  <idno type="VID">45692</idno>
+  <idno type="EEBO-PROQUEST">2240863263</idno>
+  
+            <idno type="STC">Wing L2235</idno>
+            <idno type="STC">ESTC R28782</idno>
+            <idno type="OCLC">10759089</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45692)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1405:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Lilly's new prophecy touching the notable actions of this instant September and the ensuing three months of the year (viz.) October, November, and December with an astrological account of the future plenty or scarcity, dearth or cheapness of most sorts of fruits of the earth, merchandize, or commodities : as also of the remarkable alterations of weather during all the remaining part of this year, 1679.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45692:1"/>
+            <p>Mr. Lilly's NEW PROPHECY, Touching the Notable Actions of this Instant <hi>September,</hi> and the ensuing Three Months of the Year, <hi>(viz.) October, November,</hi> and <hi>December.</hi>
+            </p>
+            <p>With an Astrological Account of the Future Plenty, or Scarcity, Dearth or Cheapness of most sorts of Fruits of the Earth, Merchandize, or Commodities.</p>
+            <p>AS ALSO, Of the remarkable Alterations of Weather, during all the remaining part of this Year, 1679.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45692:2"/>
+            <pb n="3" facs="tcp:45692:2"/>
+            <head>Mr. <hi>Lilly</hi>'s New PROPHECY.</head>
+            <p>
+               <hi>THE Great and truly Merited Reputation our Famous Author hath acquired throughout the World, for his profound skill in this most difficult speculative Science, may (we hope) serve to com<g ref="char:EOLhyphen"/>mend this little Abstract to every Mans serious Perusal and Consider<g ref="char:EOLhyphen"/>ation. For if we consider but the truth of things past in the former part of the year, by him most plainly predicted, we have no reason to imagine, but that his Predictions touching the latter part thereof, are grounded upon the same truth of Judgment, and will as certainly come to pass as the former have done— Astrol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gy i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> certainly the most Noble of the Sciences, and where truly Arrived at (as in our Author) to be regarded with the greatest respect. But though some Ignorant Pre<g ref="char:EOLhyphen"/>tenders do abuse and impose upon the World with their trash, yet that in no wise serves to cast a disesteem upon the Art, any more than any Tub Preachers nonsence and error does upon Divinity. But rather to commend to higher Veneration, its Faithful and Judicious Dis<g ref="char:EOLhyphen"/>pensers. I need not detain you with an Apology where</hi> Lilly<hi>'s Name is prefixed. Nor will I; Therefore read these his Observations amongst others, Touching the Months of</hi> September, October, <hi>and</hi> No<g ref="char:EOLhyphen"/>vember.</p>
+            <p>God direct Mens minds to require Justice, and their Supe<g ref="char:EOLhyphen"/>riors to encline thereunto. And a little further, the <hi>Moon</hi> is in conjunction with <hi>Jupiter,</hi> and posited in <hi>Taurus</hi> her exalta<g ref="char:EOLhyphen"/>tion and a fixed sign which denotes the safety and prosperity of the people in general, both in their bodies and Estates, which we pray God continue, yet he presently subjoyns. But as the <hi>Moon</hi> lately separated from the opposition of <hi>Mars;</hi> we may therefore rationally conjecture that the minds of the Vulgar have been somewhat disturbed or corrupted, with Seditious thoughts and discontents. Also great fear of War daily ex<g ref="char:EOLhyphen"/>pected
+<pb n="4" facs="tcp:45692:3"/> or much repining at the Soldiery, who are generally thought by the Country too burthensome and uneasy to them. And as the next application of the <hi>Moon</hi> is to an opposition of <hi>Venus,</hi> it shews therefore small probability of any sudden amendment, but rather a continual grumbling and dissatisfa<g ref="char:EOLhyphen"/>ction — Also a repining against the Edicts of Superiors and Governors But</p>
+            <div type="part">
+               <head>Good News to Merchants.</head>
+               <p>The Merchant will notwithstanding all dangers be blessed with hopeful returns, although he may be a little fearful of Damage at Sea by Piracy, high Winds and Tempestuous Storms. And after adds, and all things being seriously con<g ref="char:EOLhyphen"/>sidered we conceive his dangers may be many, but his fears more than his loss. Controversies and frequent differences a<g ref="char:EOLhyphen"/>mongst Eminent Persons in the World shall cease, at least for some time, but we fear they may again break out afresh, not<g ref="char:EOLhyphen"/>withstanding the endeavors, <hi>&amp;c.</hi> The position of <hi>Jupiter</hi> in the Ninth in opposition to <hi>Mars,</hi> shews some differences, may be debated in Religious Affairs or some Eminent Clergy-men or Lawyers, strangely opposed. And those their endeavors may be to elevate themselves or settle Religious Matters and Ceremonies, and this by force rather than gentle means, or the command of those in Power and Authority. The same positi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n also portends disturbances shall arise amongst or ra<g ref="char:EOLhyphen"/>ther against the Religious party (of what Sect soever) some opposition they must expect to meet with, perhaps more than ordin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry this Quarter, and prosecuted vigorously by Authori<g ref="char:EOLhyphen"/>ty: And yet they should remain resolute and wilful in their greatest troubles and afflictions.</p>
+               <p>Afterwards many sudden and sharp Councels generally on
+<pb facs="tcp:45692:3"/> Foot, and the generality of Mankind, too frequently repining (and sometimes plotting and contriving mischiefs) against their Superiors: We fear this Quarter, may prove more sick<g ref="char:EOLhyphen"/>ly than most expected. <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Then as to Cattle, Corn, and Fruit, hear his own Language.</head>
+               <p>The greater sort of Cattle, as Horses, Oxen, Cows <hi>&amp;c.</hi> Should stand moderately well this Year in the general. But the smaller sort will be subject to diseases, especially towards this Quarter. We fear a rot amongst Sheep, and some dange<g ref="char:EOLhyphen"/>rous Disease amongst Hogs — Corn for the most part shou d bear a good price, especially Wheat and Barley, and con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>quently Malt will prove a good Commodity — Coals will not advance much but continue at a reasonable price, and the lat<g ref="char:EOLhyphen"/>ter half of the year rather fall than rise, if our long experience and observations fail us not. All these are faithfu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly collected out of his Astrological Judgments for this Quarter; he mo<g ref="char:EOLhyphen"/>destly concludes that he might, in these his Astr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>logical con<g ref="char:EOLhyphen"/>jectures have given many other material hints. But excuses himself with a <hi>(Senesco)</hi> he is grown old and unwilling to give the least occasion of offence in these ticklish times. Nor (sayes he) is it convenient to be too loquacious or publick spirit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; least we produce disturbance in our old Age, as we have often met withal in our younger years, and we know —
+<q>
+                     <l>— Habent sua fata &amp; regna &amp; homines, <hi>&amp;c.</hi>
+                     </l>
+                     <l>But — Quae supra nos, nihil ad nos.</l>
+                  </q>
+               </p>
+               <p>I had almost forgotten one material passage, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch plea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to take in his own words— (sayes he) but the actions of this present Year 1679. do not wholly depend (Astrologically) ei<g ref="char:EOLhyphen"/>ther upon the Quarterly ingresses of the <hi>Sun,</hi> or the several Lu<g ref="char:EOLhyphen"/>nations and Eclipses, but the effects of the late Comet, as al<g ref="char:EOLhyphen"/>so the grand Transits and Conjunctions of the superior Planets
+<pb n="6" facs="tcp:45692:4"/> ought with them to be considered, of which we have not been unmindful in this our General Judgment, as also in our moneth<g ref="char:EOLhyphen"/>ly observations.</p>
+               <p>So far in his years Astrological Judgments. Now let us take a Brief view of his Monethly observations for <hi>Septem. Octo. Novem.</hi> and <hi>Decem.</hi> For we dare not entertain you with our own rude conjectures, nor presume to assign to each Pla<g ref="char:EOLhyphen"/>net, its Regiment of peculiar Creatures, and to make our own observations upon the plenty or scarcity of such things, according to the power or weakness of the Planet they are un<g ref="char:EOLhyphen"/>der. Neither dare we insert our own weak notions with the strong well digested Judgments of our Author. For that would be not only to render our self presumptious and ridiculous, but also to prophane the more precious writings of our Author, and (according to our sweet Poet in his description of the <hi>Chaos</hi>) to intermix <hi>Sacra profanis</hi>— I begin therefore with his observa<g ref="char:EOLhyphen"/>tions on <hi>Septem.</hi> which he begins thus <hi>(viz)</hi> this will certain<g ref="char:EOLhyphen"/>ly prove a Moneth of much business, wherein many serious and long winded debates, will take up the most generous spi<g ref="char:EOLhyphen"/>rits of <hi>Europe. &amp;c.</hi> Again (sayes he) 'tis observable that the Planet <hi>Mars</hi> is now in that fixed Treacherous sign <hi>Scorpio,</hi> the most vitious of all the Twelve, and there in opposition to <hi>Jupi<g ref="char:EOLhyphen"/>ter,</hi> which manifests superlative actions upon the Stage; and old matters seem to be called in question, Informations, Im<g ref="char:EOLhyphen"/>peachments, Accusations, and <hi>quid non?</hi> Those that shall be found Guilty must expect considerable Punishment <hi>(viz)</hi> Im<g ref="char:EOLhyphen"/>prisonment or loss of Estate, <hi>Detrimentum patietur omne quod est ejus,</hi> if not of all they have — The <hi>Sun</hi> towards the end here<g ref="char:EOLhyphen"/>of is Eclipsed, though invisible to us, yet may produce notable ef<g ref="char:EOLhyphen"/>fects <hi>(viz) Multitudo Pluviarum</hi> abundance of Rain or many Showres, with Storms and Tempests <hi>&amp;c.</hi> so of <hi>September.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:45692:4"/>
+               <head>A brief account of <hi>Octobers</hi> Observations.</head>
+               <p>Here falls an invisible Eclipse of the <hi>Moon</hi> in Aries, which notwithstanding may operate aswel upon the temper of Man<g ref="char:EOLhyphen"/>kind, as upon general matters in the World — Male-con<g ref="char:EOLhyphen"/>tented spirits about this time, too busie to foment—ambi<g ref="char:EOLhyphen"/>guous and false reports of very ill consequence, <hi>&amp;c. —Mis<g ref="char:EOLhyphen"/>sives, Agents,</hi> or Embassadors from several parts of <hi>Europe</hi> con<g ref="char:EOLhyphen"/>gratulate <hi>England's</hi> Monarch <hi>&amp;c.</hi> — also honor conferred upon some deserving Person, who is excellently well qualified for the same — to the general content of most men — some slight aspersions cast upon an Eminent Clergy-man, <hi>&amp;c.</hi> — And to<g ref="char:EOLhyphen"/>wards the Moneths end, we may expect to hear of some emi<g ref="char:EOLhyphen"/>nent Marriage of some great and worthy Persons in <hi>England,</hi> or in some Country near adjoyning to it <hi>&amp;c.</hi> so of <hi>October.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Novembers</hi> Observations in Brief.</head>
+               <p>Notable things had in consultation in <hi>Spain,</hi> the Emperor of Germany active and vigilant in preventing many inconvenien<g ref="char:EOLhyphen"/>ces, <hi>&amp;c.</hi> Again very serious negotiations now on Foot. And about this time the grievances and complaints of the distressed in many Countries, are taken into consideration, also divers e<g ref="char:EOLhyphen"/>normities regulated — The Monarch of Great <hi>Britain</hi> is near this time made happy by several welcome Intelligences, of the Gallantry and Noble deportment of his Subjects both at Sea and Land, to the honor of the <hi>English</hi> Nation. The weather proves seasonable and calm for the most part, and the Moneth concludes with hopeful successes of the <hi>English</hi> Merchant ships, every day expected from several parts of the World.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Decembers</hi> Observations in Brief.</head>
+               <p>This Month is usher'd in, or begins with an unhappy opposi<g ref="char:EOLhyphen"/>tion
+<pb n="8" facs="tcp:45692:5"/> of <hi>Saturn</hi> and <hi>Mars,</hi> from Tropical signs, whence abun<g ref="char:EOLhyphen"/>dance of mischief is threatned both at Sea and Land, occasioned partly by unseasonable Weather, or by Treacherys Mutinys, Combustions and other immoderate Actions, <hi>Deus avertat judi<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Many lying Intelligences and fal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Reports are rumored abroad this Month, still Differences lye under debate, and one Cro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s follows upon the Neck of another. —The Diseases of this Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>son which affli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Mankind, may be Imposthumations in the Stomack, Phthisick, Rotten Coughs, Dropsical Humors, Di<g ref="char:EOLhyphen"/>senterys, Wind, Collick, <hi>French Pox, &amp;c.</hi> And so with some Reflecti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns touching the Affairs of <hi>Holland</hi> and <hi>Flanders,</hi> and a Prayer for the well Issuing of His Majesties Affairs, He ends this Months Observations. Thus you have a Faithful Account of all Mr. <hi>Lilly</hi>'s material Observations and Predi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions to the end of the year, from this time, wherein I am perswaded are divers pass<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ges worth the remarking. We are cast upon difficult times and more Mischiefs seem to threaten us than we are yet aware of, our duty and business therefore is, well to weigh and consi<g ref="char:EOLhyphen"/>der all Gods Providences towards us, and to declare his Praises in our Gates, for his wonderful Discovery of the Damnable Hellish Plot, lately (and we doubt still on Foot) against us. And to beg of God that he would make fuller and clearer Discoveries thereof unto us, that the Hellish Designs of those Miscreants may not prev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gainst u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: And we may gather much of future occur<g ref="char:EOLhyphen"/>rences, by well heeding the judicious Observations of this our Learned Author, which may tend much to the prevention of (otherwise unforeseen) future Mischiefs. The good God of Heaven Preserve His Majesty from any Popish Snares, and Grant him long to Raign, make him happy in this ensuing Parliament, dispel all His Subjects Doubts and Mis-conceivings, and bring us at length out of <hi>Romish</hi> Entanglements, to enjoy our selves in Peace and Plenty as Formerly, Farewel.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45692:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
